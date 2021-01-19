@@ -1,6 +1,6 @@
-Step 1  Download the ellipse IDE from 
+Step 1  Download the eclipse IDE from  https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2020-12/R/eclipse-inst-jre-win64.exe
 Step 2  Install the JRE 1.5 and above
-Step 3  Open the Ellipse IDE, click on file then on Import projects from file system or archive.
+Step 3  Open the Eclipse IDE, click on file then on Import projects from file system or archive.
 Step 4  Click on directory and then select the folder(One which has the java project) 
 Step 5  Click in select all and finish.
 Step 6  Click on Run.
