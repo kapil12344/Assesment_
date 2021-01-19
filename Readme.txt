@@ -6,6 +6,11 @@ Step 5  Click in select all and finish.
 Step 6  Click on Run.
 
 
+Improtant file names-
+InviteCustomerList.txt   is output file.
+In src and main/java/intercom/InvisteCustomers  is the main file to run.
+In src and test/java/intercom/InvisteCustomers  is the test file.
+
 Also for more information.
 
 
